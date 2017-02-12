@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3e01dc6bb162cf566f3170080e171cd26dbcaf42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c197716c0d9a3394cf3ef359f392d368475b6e5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_71f321d19ec44e9613c915d74da87b7c45652c97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_aae80a0b96c024a80b6ec4e1baf953bca423055a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_58563bfda7a24e44251b6eef913489e8eac3ee63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_36d5f66e8eb540d63b3c28d695535e14fd811cfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_ffcbf7590108cc1699d8aa4faa4ab98c4c57244d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_987ae753731d14a4d93ad53e2a5cce1497fbdaff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_58f948e755a7276ae4b6944c5c1d0f7a90fadfbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ffacbb51136d32e0be7d71f0e9a6ec882967fc50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_3fd70cadbe0614281249b3b37269ccadc0ff944a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4786722c8a23ed815c2cd057d3233f918b53b57">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_32ded9c83feca8e0c96e4ad75786c6c1a7ed1bc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_afd67103762fee710515a57320a2a34a49103cdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d19c8210f2c9bf00bcc619301abbef70d9713d44">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cc12c3ece423c5f4fefbdf1d3e044205fc978b34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_23a3c70f8fded090b26b0a382725c9209e890f4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_74d95aef32f5de87959b84cd79661053028a9971\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I3\Desktop\Filme\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\I3\Desktop\Filme\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_1540c61a6c69a4264345942ffa3d2d3be86bfa28\classes.dex" />
+    </item>
+
+</items>
